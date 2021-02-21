@@ -1,0 +1,6 @@
+This project is developed by Zhang Nijia from Newcastle University, Master of Computer Science.
+the four modelling systems can simulate the reaction process of biochemical systems (Michaelis-Menten case included).
+This is the first version.
+The external Java libraries JFreeChart and Apache Common Math3 are included in the folder. 
+When attempt to re-open the file, the Eclipse may require to re-add the external libraries.
+The codes are all created the developer herself.
